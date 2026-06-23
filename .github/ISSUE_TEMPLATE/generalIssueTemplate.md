@@ -12,7 +12,7 @@ Short, clear description of the task or problem.
 ## Type
 - [ ] Bug 
 - [ ] Feature
-- [ ] Enchancement
+- [ ] Enhancement
 
 ## Why
 Why this is needed or important.
