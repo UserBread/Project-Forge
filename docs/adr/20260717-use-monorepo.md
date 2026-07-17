@@ -1,6 +1,6 @@
 # Use a monorepo for the repository structure
 
-- Status: proposed
+- Status: accepted
 - Date: 2026-07-17
 
 ## Context and Problem Statement

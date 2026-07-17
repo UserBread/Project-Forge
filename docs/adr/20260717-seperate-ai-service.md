@@ -1,7 +1,7 @@
 # Separate the AI service
 
-- Status: proposed
-- Date: 2026-06-23
+- Status: accepted
+- Date: 2026-07-17
 
 ## Context and Problem Statement
 
